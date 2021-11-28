@@ -13,33 +13,33 @@ Jika kamu tidak percaya bot ini,
 2) blokir bot atau delete chat
 
 Bot ini Bekerja Untuk Membantu Kamu Mendapatkan String Session Via Bot. Rekomendasi Jika Ingin Mengambil String Gunakan Akun Lain, Agar Tidak Delay. Terimakasih
-By @fckualot
+By @Mafia_TobaTZ
     """
 
     # Home Button
     home_buttons = [
-        [InlineKeyboardButton("🔥 Start Generating Session 🔥", callback_data="generate")],
-        [InlineKeyboardButton(text="🏠 Kembali 🏠", callback_data="home")]
+        [InlineKeyboardButton("💢 Start Generating Session 💢", callback_data="generate")],
+        [InlineKeyboardButton(text="💢 Kembali 💢", callback_data="home")]
     ]
 
     generate_button = [
-        [InlineKeyboardButton("🔥 Start Generating Session 🔥", callback_data="generate")]
+        [InlineKeyboardButton("💢 Start Generating Session 💢", callback_data="generate")]
     ]
 
     # Rest Buttons
     buttons = [
-        [InlineKeyboardButton("🔥 Start Generating Session 🔥", callback_data="generate")],
-        [InlineKeyboardButton("✨ Maintaned By ✨", url="https://t.me/fckualot")],
+        [InlineKeyboardButton("💢 Start Generating Session 💢", callback_data="generate")],
+        [InlineKeyboardButton("💢 Maintaned By 💢", url="https://t.me/Mafia_TobaTZ")],
         [
             InlineKeyboardButton("Cara Menggunakan Saya ❔", callback_data="help"),
-            InlineKeyboardButton("🎪 About 🎪", callback_data="about")
+            InlineKeyboardButton("💢 About 💢", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ Info Bot Lain ♥", url="https://t.me/rioprojects")],
+        [InlineKeyboardButton("♥ Info Bot Lain ♥", url="https://t.me/SharingUserbot")],
     ]
 
     # Help Message
     HELP = """
-✨ **Available Commands** ✨
+💢 **Available Commands** 💢
 
 /about - Tentang Bot ini
 /help - This Message
@@ -55,11 +55,11 @@ By @fckualot
 
 Sebuah telegram bot untuk mengambil pyrogram dan telethon string session by @stringriobot
 
-Group Support : [Gabung](https://t.me/riogroupsupport)
+Group Support : [Gabung](https://t.me/SharingUserbot)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
 
-Developer : @fckualot
+Developer : @Mafia_Tobatz
     """
