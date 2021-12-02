@@ -53,7 +53,7 @@ By @Mafia_TobaTZ
     ABOUT = """
 **About This Bot** 
 
-Sebuah telegram bot untuk mengambil pyrogram dan telethon string session by @StringKangGhosting_Bot
+Sebuah telegram bot untuk mengambil pyrogram dan telethon string session by @StrinG_Pantek_Bot
 
 Group Support : [Gabung](https://t.me/SharingUserbot)
 
