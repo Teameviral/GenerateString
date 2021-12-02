@@ -53,7 +53,7 @@ sᴇʟᴀᴍᴀᴛ ᴅᴀᴛᴀɴɢ {}
     ABOUT = """
 **About This Bot** 
 
-Sebuah telegram bot untuk mengambil pyrogram dan telethon string session by @StrinG_Pantek_Bot
+sᴇʙᴜᴀʜ ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ ᴜɴᴛᴜᴋ ᴍᴇɴɢᴀᴍʙɪʟ ᴘʏʀᴏɢʀᴀᴍ ᴅᴀɴ ᴛᴇʟᴇᴛʜᴏɴ sᴛʀɪɴɢ sᴇssɪᴏɴ ʙʏ @StrinG_Pantek_Bot
 
 𝗚𝗿𝗼𝘂𝗽 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 : [Gabung](https://t.me/SharingUserbot)
 
