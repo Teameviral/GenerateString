@@ -18,7 +18,7 @@ By @Mafia_TobaTZ
 
     # Home Button
     home_buttons = [
-        [InlineKeyboardButton("💢 Start Generating Session 💢", callback_data="generate")],
+        [InlineKeyboardButton("💢 sᴛᴀʀᴛ ɢᴇɴᴇʀᴀᴛɪɴɢ sᴇssɪᴏɴ 💢", callback_data="generate")],
         [InlineKeyboardButton(text="💢 Kembali 💢", callback_data="home")]
     ]
 
@@ -28,25 +28,25 @@ By @Mafia_TobaTZ
 
     # Rest Buttons
     buttons = [
-        [InlineKeyboardButton("💢 Start Generating Session 💢", callback_data="generate")],
-        [InlineKeyboardButton("💢 Maintaned By 💢", url="https://t.me/Mafia_TobaTZ")],
+        [InlineKeyboardButton("💢 sᴛᴀʀᴛ ɢᴇɴᴇʀᴀᴛɪɴɢ sᴇssɪᴏɴ 💢", callback_data="generate")],
+        [InlineKeyboardButton("💢 ᴍᴀɪɴᴛᴀɴᴇᴅ ʙʏ 💢", url="https://t.me/Mafia_TobaTZ")],
         [
-            InlineKeyboardButton("Cara Menggunakan Saya ❔", callback_data="help"),
-            InlineKeyboardButton("💢 About 💢", callback_data="about")
+            InlineKeyboardButton(" ᴄᴀʀᴀ ᴍᴇɴɢɢᴜɴᴀᴋᴀɴ sᴀʏᴀ ❔", callback_data="help"),
+            InlineKeyboardButton("💢 ᴀʙᴏᴜᴛ 💢", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ Info Bot Lain ♥", url="https://t.me/SharingUserbot")],
+        [InlineKeyboardButton("↗️ ɪɴꜰᴏ ʙᴏᴛ ʟᴀɪɴ ↗️", url="https://t.me/SharingUserbot")],
     ]
 
     # Help Message
     HELP = """
 💢 **Available Commands** 💢
 
-/about - Tentang Bot ini
-/help - This Message
-/start - Mulai Bot
-/generate - Mulai Generating Session
-/cancel - Membatalkan process
-/restart - Membatalkan process
+/about - 𝗧𝗲𝗻𝘁𝗮𝗻𝗴 𝗕𝗼𝘁 𝗶𝗻𝗶
+/help - 𝗧𝗵𝗶𝘀 𝗠𝗲𝘀𝘀𝗮𝗴𝗲
+/start - 𝗠𝘂𝗹𝗮𝗶 𝗕𝗼𝘁
+/generate - 𝗠𝘂𝗹𝗮𝗶 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝗻𝗴 𝗦𝗲𝘀𝘀𝗶𝗼𝗻
+/cancel - 𝗠𝗲𝗺𝗯𝗮𝘁𝗮𝗹𝗸𝗮𝗻 𝗽𝗿𝗼𝗰𝗲𝘀𝘀
+/restart - 𝗠𝗲𝗺𝗯𝗮𝘁𝗮𝗹𝗸𝗮𝗻 𝗽𝗿𝗼𝗰𝗲𝘀𝘀
 """
 
     # About Message
@@ -55,11 +55,11 @@ By @Mafia_TobaTZ
 
 Sebuah telegram bot untuk mengambil pyrogram dan telethon string session by @StrinG_Pantek_Bot
 
-Group Support : [Gabung](https://t.me/SharingUserbot)
+𝗚𝗿𝗼𝘂𝗽 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 : [Gabung](https://t.me/SharingUserbot)
 
-Framework : [Pyrogram](docs.pyrogram.org)
+𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸 : [Pyrogram](docs.pyrogram.org)
 
-Language : [Python](www.python.org)
+𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 : [Python](www.python.org)
 
-Developer : @Mafia_Tobatz
+𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿: @Mafia_Tobatz
     """
