@@ -4,16 +4,16 @@ from pyrogram.types import InlineKeyboardButton
 class Data:
     # Start Message
     START = """
-Halo {}
+ʜᴀʟᴏ {}ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 
-Selamat datang {}
+sᴇʟᴀᴍᴀᴛ ᴅᴀᴛᴀɴɢ {}
 
-Jika kamu tidak percaya bot ini, 
-1) gausah baca pesan ini
-2) blokir bot atau delete chat
+ᴊɪᴋᴀ ᴋᴀᴍᴜ ᴛɪᴅᴀᴋ ᴘᴇʀᴄᴀʏᴀ ʙᴏᴛ ɪɴɪ, 
+1) ɢᴀᴜsᴀʜ ʙᴀᴄᴀ ᴘᴇsᴀɴ ɪɴɪ
+2) ʙʟᴏᴋɪʀ ʙᴏᴛ ᴀᴛᴀᴜ ᴅᴇʟᴇᴛᴇ ᴄʜᴀᴛ
 
-Bot ini Bekerja Untuk Membantu Kamu Mendapatkan String Session Via Bot. Rekomendasi Jika Ingin Mengambil String Gunakan Akun Lain, Agar Tidak Delay. Terimakasih
-By @Mafia_TobaTZ
+ʙᴏᴛ ɪɴɪ ʙᴇᴋᴇʀᴊᴀ ᴜɴᴛᴜᴋ ᴍᴇᴍʙᴀɴᴛᴜ ᴋᴀᴍᴜ ᴍᴇɴᴅᴀᴘᴀᴛᴋᴀɴ sᴛʀɪɴɢ sᴇssɪᴏɴ ᴠɪᴀ ʙᴏᴛ. ʀᴇᴋᴏᴍᴇɴᴅᴀsɪ ᴊɪᴋᴀ ɪɴɢɪɴ ᴍᴇɴɢᴀᴍʙɪʟ sᴛʀɪɴɢ ɢᴜɴᴀᴋᴀɴ ᴀᴋᴜɴ ʟᴀɪɴ, ᴀɢᴀʀ ᴛɪᴅᴀᴋ ᴅᴇʟᴀʏ. ᴛᴇʀɪᴍᴀᴋᴀsɪʜ
+ʙʏ @Mafia_TobaTZ
     """
 
     # Home Button
